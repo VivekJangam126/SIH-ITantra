@@ -1,0 +1,6 @@
+{
+  "name": "iTantra Tactical Simulator",
+  "description": "Tactical offline voice-to-voice translation and ultra-low bandwidth mesh transmission simulator for emergency disaster response.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
